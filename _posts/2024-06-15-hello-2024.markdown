@@ -1,0 +1,38 @@
+---
+layout:     post
+title:      "序"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2024-06-15 11:00:00
+author:     "Yz"
+header-img: "img/0615/bocchi.gif"
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+
+## 前言
+
+我开通了人生中第一个博客。
+
+[click here ](#build)
+
+
+
+<p id = "build"></p>
+---
+
+## 正文
+
+
+
+---
+
+
+
+## 后记
+
+
+
+—— Yz 后记于 2024.06
