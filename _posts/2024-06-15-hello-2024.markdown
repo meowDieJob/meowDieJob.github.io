@@ -4,7 +4,8 @@ title:      "序"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2024-06-15 11:00:00
 author:     "Yz"
-header-img: "img/0615/bocchi.gif"
+header-img: "img/0615/bocchi.jpg"
+comment: true
 tags:
     - 生活
 ---
