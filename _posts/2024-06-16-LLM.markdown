@@ -4,7 +4,7 @@ title:      "你好LLM"
 subtitle:   " \"Hello LLM\""
 date:       2024-06-16 11:00:00
 author:     "Yz"
-header-img: "img/in-post/0615/bocchi.jpg"
+header-img: "img/home-bg-o.jpg"
 
 tags:
     - LLM
