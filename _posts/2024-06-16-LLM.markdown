@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "你好LLM"
+subtitle:   " \"Hello LLM\""
+date:       2024-06-16 11:00:00
+author:     "Yz"
+header-img: "img/in-post/0615/bocchi.jpg"
+
+tags:
+    - LLM
+---
+
+> “Yeah It's on. ”
+
+## 学习路线
+![学习路线图](/img/in-post/0615/1.png " ")
+
+## 分块学习
+
+### FastText,Word2Vec and GloVe
